@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5czz3U3tI2TL4LAVwsqp71N1M9q4QTVrrUEimlvNyUI=",
+  "Source": "LocationWebAPI",
+  "BasePath": "_content/LocationWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

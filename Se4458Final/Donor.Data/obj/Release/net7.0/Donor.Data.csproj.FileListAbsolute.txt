@@ -1,0 +1,17 @@
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/bin/Release/net7.0/Donor.Data.deps.json
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/bin/Release/net7.0/Donor.Data.runtimeconfig.json
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/bin/Release/net7.0/Donor.Data.dll
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/bin/Release/net7.0/Donor.Data.pdb
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/bin/Release/net7.0/BloodBank.Data.dll
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/bin/Release/net7.0/BloodBank.Data.pdb
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.csproj.AssemblyReference.cache
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.AssemblyInfoInputs.cache
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.AssemblyInfo.cs
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.csproj.CoreCompileInputs.cache
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.csproj.CopyComplete
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.dll
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/refint/Donor.Data.dll
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.pdb
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/Donor.Data.genruntimeconfig.cache
+/Users/yarkinatac/Development/Se4458Final/Donor.Data/obj/Release/net7.0/ref/Donor.Data.dll

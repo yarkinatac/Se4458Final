@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ppg4KJ8bLhBGLAzVBobC9/R178Axv6Pnn7QTeGu4uH0=",
+  "Source": "DonorWebAPI",
+  "BasePath": "_content/DonorWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

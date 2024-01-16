@@ -1,0 +1,14 @@
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/bin/Release/net7.0/BloodBank.Data.deps.json
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/bin/Release/net7.0/BloodBank.Data.runtimeconfig.json
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/bin/Release/net7.0/BloodBank.Data.dll
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/bin/Release/net7.0/BloodBank.Data.pdb
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.csproj.AssemblyReference.cache
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.AssemblyInfoInputs.cache
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.AssemblyInfo.cs
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.csproj.CoreCompileInputs.cache
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.dll
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/refint/BloodBank.Data.dll
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.pdb
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/BloodBank.Data.genruntimeconfig.cache
+/Users/yarkinatac/Development/Se4458Final/BloodBank.Data/obj/Release/net7.0/ref/BloodBank.Data.dll

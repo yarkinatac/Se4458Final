@@ -1,0 +1,139 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/v1/Donor/Add",
+      "DownstreamPathTemplate": "/api/v1/Donor/Add",
+      "UpstreamHttpMethod": [ "Post", "Get" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "MyJwtProvider"
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/Donor/Find",
+      "DownstreamPathTemplate": "/api/v1/Donor/Find",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",  
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "MyJwtProvider",
+        "AllowedScopes": []
+
+      }
+
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/Donor/Donate",
+      "DownstreamPathTemplate": "/api/v1/Donor/Donate",
+      "UpstreamHttpMethod": [ "Post", "Get" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/Donor/GetList",
+      "DownstreamPathTemplate": "/api/v1/Donor/GetList",
+      "UpstreamHttpMethod": [ "Post", "Get" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/User/RegisterToBranch",
+      "DownstreamPathTemplate": "/api/v1/User/RegisterToBranch",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/User/RegisterToHospital",
+      "DownstreamPathTemplate": "/api/v1/User/RegisterToHospital",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/User/LoginToBranch",
+      "DownstreamPathTemplate": "/api/v1/User/LoginToBranch",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/User/LoginToHospital",
+      "DownstreamPathTemplate": "/api/v1/User/LoginToHospital",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/BloodRequest/RequestBlood",
+      "DownstreamPathTemplate": "/api/v1/BloodRequest/RequestBlood",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/v1/BloodRequest/AutomaticBloodRequest",
+      "DownstreamPathTemplate": "/api/v1/BloodRequest/AutomaticBloodRequest",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "se4458final.azure-api.net",
+          "Port": 443
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://se4458final.azure-api.net"
+  }
+
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/fj/+32GJwOB0OdHrtaChO8QkWfhM5HODV4nTgnEFaE=",
+  "Source": "BloodBankWebAPI",
+  "BasePath": "_content/BloodBankWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

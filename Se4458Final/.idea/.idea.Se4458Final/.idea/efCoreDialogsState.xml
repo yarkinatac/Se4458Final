@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:1511d5a3-96e5-4927-96ad-99a33d11248d:dbContext" value="User.Data.Models.UserDBContext" />
+        <entry key="Common:ab2b70d7-f100-4e7a-a20e-46ed692a5d70:dbContext" value="BloodBank.Data.Models.BloodBankDBContext" />
+        <entry key="Common:b7d27435-9701-44bb-8771-a0f79825e3cd:dbContext" value="Location.Data.Models.LocationDBContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:e5752b07-d011-4583-bff9-d62bdc6d66c7:dbContext" value="Donor.Data.Models.DonorDBContext" />
+        <entry key="Common:enableDiagnosticLogging" value="false" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>
